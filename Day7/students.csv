@@ -1,0 +1,6 @@
+ID,Name,Age,Marks,Gender
+1,Amit,20.0,85.0,M
+2,Neha,,90.0,F
+3,Rahul,21.0,,M
+4,Priya,,78.0,F
+5,Sandeep,22.0,88.0,M
